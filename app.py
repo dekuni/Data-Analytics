@@ -8,7 +8,7 @@ st.set_page_config(layout="centered")  # Abas no meio da página
 st.title("Análise de dados: explorando dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) COVID19")  # Adicionado título
 
 # Create tabs
-tab1, tab2, tab3 = st.tabs(["Introdução", "Características clínicas dos sintomas", "Conclusão"])
+tab1, tab2, tab3 = st.tabs(["Introdução", "Análise dos Dados", "Conclusão"])
 
 # Tab 1: Introdução
 with tab1:
