@@ -183,11 +183,15 @@ WHERE
                                 "**ANÁLISE**:\n\nA pandemia de COVID-19 causou uma série de impactos econômicos significativos no Brasil, afetando de maneira profunda o mercado de trabalho. Milhões de trabalhadores enfrentaram cortes de salário, demissões e perda de oportunidades de emprego devido ao fechamento de empresas e às medidas de isolamento social. Esse cenário trouxe à tona a vulnerabilidade de muitas categorias profissionais e revelou disparidades na maneira como diferentes regiões foram afetadas pela crise.\n\n Em estados como Rio de Janeiro (RJ) e Rio Grande do Norte (RN), observa-se uma disparidade acentuada entre trabalhadores remunerados e não remunerados, indicando uma vulnerabilidade maior desses mercados de trabalho durante o período da crise. Essas regiões, em particular, destacam-se pelo número alarmante de pessoas que perderam sua fonte de renda, seja devido ao fechamento de empresas, demissões ou suspensões temporárias de contrato.\n\n Apesar desse cenário generalizado, alguns estados como Maranhão (MA), Ceará (CE) e Mato Grosso (MT) apresentam uma proporção mais equilibrada de trabalhadores que conseguiram manter algum tipo de remuneração, o que pode indicar a presença de políticas locais ou setores econômicos mais resilientes. Esses resultados mostram que, embora o impacto da pandemia tenha sido nacional, os efeitos sobre a renda dos trabalhadores foram sentidos de maneira desigual entre as regiões, refletindo as particularidades econômicas e políticas de cada estado."]
                 for j, (question, description) in enumerate(zip(questions, descriptions)):  # Alterado para usar lista de perguntas e descrições
                     st.write(question)  # Mostrar a pergunta antes do botão
-                    if st.button(f"Gráfico {j+1}", key=f"grafico_socioeconomicos_{j}"):  # Adicionado key
+                    if st.button(f"Gráfico {j+1}", key=f"grafico_socioeconomicos_{j}"):
+                        with st.spinner('Gráfico Carregando..'):
+                            time.sleep(1)# Adicionado key
                         image = Image.open(f'dados_socioeconomicos_{j+1}.jpg')
                         st.image(image, caption=f'Gráfico {j+1} de Dados Socioeconômicos')
                         st.write(description)  # Mostrar a descrição específica para cada gráfico
-                    if st.button(f"Query {j+1}", key=f"query_socioeconomicos_{j}"):  # Adicionado botão para mostrar Query
+                    if st.button(f"Query {j+1}", key=f"query_socioeconomicos_{j}"):
+                        with st.spinner('Gráfico Carregando..'):
+                            time.sleep(1)# Adicionado botão para mostrar Query
                         st.write("Query para a análise dos dados socioeconômicos")
                         if j == 0:
                             st.code("""WITH 
@@ -332,11 +336,15 @@ GROUP BY
                 # Move o loop for acima da definição de sql_queries
                 for j, (question, description) in enumerate(zip(questions, descriptions)):  # Alterado para usar lista de perguntas e descrições
                     st.write(question)  # Mostrar a pergunta antes do botão
-                    if st.button(f"Gráfico {j+1}", key=f"grafico_sintomas_{j}"):  # Adicionado key
+                    if st.button(f"Gráfico {j+1}", key=f"grafico_sintomas_{j}"):
+                        with st.spinner('Gráfico Carregando..'):
+                            time.sleep(1)# Adicionado key
                         image = Image.open(f'sintomas_{j+1}.jpg')
                         st.image(image, caption=f'Gráfico {j+1} de Sintomas')
                         st.write(description)
-                    if st.button(f"Query {j+1}", key=f"query_sintomas_{j}"):  # Adicionado botão para mostrar Query
+                    if st.button(f"Query {j+1}", key=f"query_sintomas_{j}"):
+                        with st.spinner('Gráfico Carregando..'):
+                            time.sleep(1)# Adicionado botão para mostrar Query
                         if j == 0:
                             st.code("""
                     WITH 
