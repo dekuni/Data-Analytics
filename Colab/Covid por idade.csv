@@ -1,0 +1,45 @@
+Faixa_Etaria,Teste_Covid,contagem
+11 a 20 anos,Positivo,1347
+51 a 60 anos,Negativo,6763
+31 a 40 anos,Positivo,4726
+41 a 50 anos,Negativo,9059
+11 a 20 anos,Negativo,3884
+Acima de 80 anos,Negativo,823
+51 a 60 anos,Ainda não recebeu o resultado,378
+21 a 30 anos,Negativo,8442
+31 a 40 anos,Inconclusivo,63
+61 a 70 anos,Positivo,1552
+41 a 50 anos,Ainda não recebeu o resultado,397
+0 a 10 anos,Ainda não recebeu o resultado,92
+71 a 80 anos,Inconclusivo,13
+51 a 60 anos,Inconclusivo,80
+41 a 50 anos,Inconclusivo,92
+11 a 20 anos,Inconclusivo,12
+Acima de 80 anos,Ainda não recebeu o resultado,38
+21 a 30 anos,Ignorado,3
+Acima de 80 anos,Inconclusivo,5
+11 a 20 anos,Ignorado,2
+51 a 60 anos,Ignorado,3
+Acima de 80 anos,Ignorado,1
+61 a 70 anos,Negativo,3905
+31 a 40 anos,Negativo,10481
+21 a 30 anos,Positivo,3344
+51 a 60 anos,Positivo,3021
+71 a 80 anos,Negativo,1804
+41 a 50 anos,Positivo,3985
+61 a 70 anos,Ainda não recebeu o resultado,234
+31 a 40 anos,Ainda não recebeu o resultado,476
+0 a 10 anos,Negativo,2133
+0 a 10 anos,Positivo,580
+Acima de 80 anos,Positivo,275
+21 a 30 anos,Ainda não recebeu o resultado,430
+21 a 30 anos,Inconclusivo,68
+11 a 20 anos,Ainda não recebeu o resultado,224
+71 a 80 anos,Positivo,654
+61 a 70 anos,Inconclusivo,49
+41 a 50 anos,Ignorado,3
+71 a 80 anos,Ainda não recebeu o resultado,87
+31 a 40 anos,Ignorado,3
+0 a 10 anos,Ignorado,2
+0 a 10 anos,Inconclusivo,15
+71 a 80 anos,Ignorado,1

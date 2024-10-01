@@ -1,0 +1,244 @@
+sigla_uf,Estados,Trabalho,frequencia
+AP,Amapá,Conta própria,2286
+AP,Amapá,"Militar do exercito, marinha ou aeronáutica",16
+AP,Amapá,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",112
+AP,Amapá,Empregador,76
+AC,Acre,Conta própria,4398
+AC,Acre,Empregado do setor privado,5073
+AC,Acre,Empregador,218
+AC,Acre,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",726
+AC,Acre,Plicial militar ou bombeiro mlilitar,175
+AC,Acre,"Militar do exercito, marinha ou aeronáutica",71
+RO,Rondônia,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",669
+TO,Tocantins,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",767
+TO,Tocantins,Empregador,338
+TO,Tocantins,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,292
+TO,Tocantins,Plicial militar ou bombeiro mlilitar,66
+TO,Tocantins,"Militar do exercito, marinha ou aeronáutica",28
+DF,Distrito Federal,Empregado do setor privado,8393
+DF,Distrito Federal,Plicial militar ou bombeiro mlilitar,239
+DF,Distrito Federal,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",233
+SE,Sergipe,Plicial militar ou bombeiro mlilitar,133
+SE,Sergipe,"Militar do exercito, marinha ou aeronáutica",17
+PI,Piauí,Empregado do setor público (inclusive empresas de economia mista),3889
+PI,Piauí,Empregado do setor privado,6023
+PI,Piauí,Empregador,392
+PI,Piauí,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,533
+PI,Piauí,"Militar do exercito, marinha ou aeronáutica",87
+RR,Roraima,Empregado do setor público (inclusive empresas de economia mista),3436
+RR,Roraima,Conta própria,3126
+RR,Roraima,Empregado do setor privado,4065
+RR,Roraima,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",887
+RR,Roraima,"Militar do exercito, marinha ou aeronáutica",246
+RR,Roraima,Plicial militar ou bombeiro mlilitar,71
+PB,Paraíba,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1026
+PB,Paraíba,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",1386
+PB,Paraíba,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,345
+MS,Mato Grosso do Sul,Conta própria,6506
+RN,Rio Grande do Norte,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",1078
+RN,Rio Grande do Norte,Empregado do setor público (inclusive empresas de economia mista),3449
+RN,Rio Grande do Norte,Conta própria,5643
+RN,Rio Grande do Norte,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,226
+RN,Rio Grande do Norte,Empregador,425
+RN,Rio Grande do Norte,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1045
+RN,Rio Grande do Norte,"Militar do exercito, marinha ou aeronáutica",61
+PA,Pará,Empregado do setor público (inclusive empresas de economia mista),4925
+PA,Pará,Empregado do setor privado,9263
+PA,Pará,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1130
+PA,Pará,"Militar do exercito, marinha ou aeronáutica",174
+MT,Mato Grosso,Empregado do setor privado,15981
+MT,Mato Grosso,Empregador,1391
+MT,Mato Grosso,Plicial militar ou bombeiro mlilitar,133
+AM,Amazonas,Empregado do setor privado,7285
+AM,Amazonas,Conta própria,8787
+AM,Amazonas,Empregado do setor público (inclusive empresas de economia mista),4100
+AM,Amazonas,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1629
+CE,Ceará,Empregado do setor público (inclusive empresas de economia mista),6627
+CE,Ceará,Empregador,827
+CE,Ceará,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2049
+CE,Ceará,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",3798
+CE,Ceará,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,805
+CE,Ceará,Plicial militar ou bombeiro mlilitar,162
+CE,Ceará,"Militar do exercito, marinha ou aeronáutica",48
+AL,Alagoas,Empregado do setor privado,7656
+AL,Alagoas,Empregado do setor público (inclusive empresas de economia mista),4476
+AL,Alagoas,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,428
+AL,Alagoas,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",1800
+AL,Alagoas,"Militar do exercito, marinha ou aeronáutica",24
+GO,Goiás,Empregado do setor privado,18680
+GO,Goiás,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2611
+GO,Goiás,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",799
+GO,Goiás,Empregado do setor público (inclusive empresas de economia mista),5436
+GO,Goiás,Plicial militar ou bombeiro mlilitar,153
+GO,Goiás,"Militar do exercito, marinha ou aeronáutica",98
+ES,Espírito Santo,Conta própria,15047
+ES,Espírito Santo,Empregado do setor privado,19835
+ES,Espírito Santo,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,930
+ES,Espírito Santo,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",512
+PE,Pernambuco,Conta própria,12484
+PE,Pernambuco,Empregado do setor público (inclusive empresas de economia mista),5894
+PE,Pernambuco,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1865
+PE,Pernambuco,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",2647
+PE,Pernambuco,Empregador,808
+PE,Pernambuco,Plicial militar ou bombeiro mlilitar,230
+BA,Bahia,Empregado do setor privado,15586
+BA,Bahia,Empregado do setor público (inclusive empresas de economia mista),5912
+BA,Bahia,Conta própria,12999
+BA,Bahia,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2226
+BA,Bahia,Empregador,876
+PR,Paraná,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2865
+PR,Paraná,Empregado do setor privado,28018
+PR,Paraná,Empregado do setor público (inclusive empresas de economia mista),7557
+RS,Rio Grande do Sul,Empregado do setor privado,28007
+RS,Rio Grande do Sul,Conta própria,23912
+RS,Rio Grande do Sul,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2853
+RS,Rio Grande do Sul,Empregador,2987
+RS,Rio Grande do Sul,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",1980
+RS,Rio Grande do Sul,"Militar do exercito, marinha ou aeronáutica",327
+RS,Rio Grande do Sul,Plicial militar ou bombeiro mlilitar,211
+MA,Maranhão,Conta própria,13307
+MA,Maranhão,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1916
+MA,Maranhão,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",3233
+MA,Maranhão,"Militar do exercito, marinha ou aeronáutica",19
+SC,Santa Catarina,Empregado do setor privado,36482
+SC,Santa Catarina,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1348
+SC,Santa Catarina,Plicial militar ou bombeiro mlilitar,290
+MG,Minas Gerais,"Militar do exercito, marinha ou aeronáutica",120
+MG,Minas Gerais,Empregado do setor privado,44392
+MG,Minas Gerais,Conta própria,29288
+MG,Minas Gerais,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",5958
+SP,São Paulo,Conta própria,25473
+SP,São Paulo,Empregado do setor público (inclusive empresas de economia mista),10343
+SP,São Paulo,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",6038
+SP,São Paulo,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",913
+SP,São Paulo,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,992
+SP,São Paulo,"Militar do exercito, marinha ou aeronáutica",61
+SP,São Paulo,Plicial militar ou bombeiro mlilitar,269
+RJ,Rio de Janeiro,Empregado do setor privado,33538
+RJ,Rio de Janeiro,Empregado do setor público (inclusive empresas de economia mista),11252
+RJ,Rio de Janeiro,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",3913
+RJ,Rio de Janeiro,Empregador,2166
+RJ,Rio de Janeiro,"Militar do exercito, marinha ou aeronáutica",1218
+AP,Amapá,Empregado do setor privado,2169
+AP,Amapá,Empregado do setor público (inclusive empresas de economia mista),1480
+AP,Amapá,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",248
+AP,Amapá,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,134
+AP,Amapá,Plicial militar ou bombeiro mlilitar,93
+AC,Acre,Empregado do setor público (inclusive empresas de economia mista),3541
+AC,Acre,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",501
+AC,Acre,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,308
+RO,Rondônia,Empregado do setor privado,5257
+RO,Rondônia,Empregado do setor público (inclusive empresas de economia mista),2524
+RO,Rondônia,Conta própria,5665
+RO,Rondônia,Plicial militar ou bombeiro mlilitar,119
+RO,Rondônia,Empregador,330
+RO,Rondônia,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",536
+RO,Rondônia,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1034
+RO,Rondônia,"Militar do exercito, marinha ou aeronáutica",106
+TO,Tocantins,Conta própria,4289
+TO,Tocantins,Empregado do setor privado,4391
+TO,Tocantins,Empregado do setor público (inclusive empresas de economia mista),3568
+TO,Tocantins,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",1019
+DF,Distrito Federal,Conta própria,4074
+DF,Distrito Federal,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1360
+DF,Distrito Federal,Empregado do setor público (inclusive empresas de economia mista),4082
+DF,Distrito Federal,"Militar do exercito, marinha ou aeronáutica",335
+DF,Distrito Federal,Empregador,563
+DF,Distrito Federal,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,128
+SE,Sergipe,Empregado do setor privado,7970
+SE,Sergipe,Empregado do setor público (inclusive empresas de economia mista),3204
+SE,Sergipe,Conta própria,5169
+SE,Sergipe,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,739
+SE,Sergipe,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1129
+SE,Sergipe,Empregador,447
+SE,Sergipe,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",390
+PI,Piauí,Conta própria,5475
+PI,Piauí,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",894
+PI,Piauí,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",2881
+PI,Piauí,Plicial militar ou bombeiro mlilitar,65
+RR,Roraima,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",276
+RR,Roraima,Empregador,145
+RR,Roraima,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,192
+PB,Paraíba,Conta própria,6169
+PB,Paraíba,Empregado do setor público (inclusive empresas de economia mista),4831
+PB,Paraíba,Empregado do setor privado,7697
+PB,Paraíba,Empregador,490
+PB,Paraíba,Plicial militar ou bombeiro mlilitar,119
+PB,Paraíba,"Militar do exercito, marinha ou aeronáutica",38
+MS,Mato Grosso do Sul,Empregado do setor privado,12572
+MS,Mato Grosso do Sul,Plicial militar ou bombeiro mlilitar,165
+MS,Mato Grosso do Sul,Empregado do setor público (inclusive empresas de economia mista),4091
+MS,Mato Grosso do Sul,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1681
+MS,Mato Grosso do Sul,Empregador,1227
+MS,Mato Grosso do Sul,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,344
+MS,Mato Grosso do Sul,"Militar do exercito, marinha ou aeronáutica",248
+MS,Mato Grosso do Sul,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",238
+RN,Rio Grande do Norte,Empregado do setor privado,6967
+RN,Rio Grande do Norte,Plicial militar ou bombeiro mlilitar,113
+PA,Pará,Conta própria,10974
+PA,Pará,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1363
+PA,Pará,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",441
+PA,Pará,Empregador,592
+PA,Pará,Plicial militar ou bombeiro mlilitar,146
+MT,Mato Grosso,Empregado do setor público (inclusive empresas de economia mista),4420
+MT,Mato Grosso,Conta própria,9862
+MT,Mato Grosso,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2010
+MT,Mato Grosso,"Militar do exercito, marinha ou aeronáutica",59
+MT,Mato Grosso,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",348
+MT,Mato Grosso,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,617
+AM,Amazonas,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",775
+AM,Amazonas,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",975
+AM,Amazonas,Plicial militar ou bombeiro mlilitar,122
+AM,Amazonas,"Militar do exercito, marinha ou aeronáutica",208
+AM,Amazonas,Empregador,291
+CE,Ceará,Empregado do setor privado,14000
+CE,Ceará,Conta própria,10794
+AL,Alagoas,Conta própria,7078
+AL,Alagoas,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1080
+AL,Alagoas,Empregador,252
+AL,Alagoas,Plicial militar ou bombeiro mlilitar,126
+GO,Goiás,Empregador,1613
+GO,Goiás,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,533
+GO,Goiás,Conta própria,11935
+ES,Espírito Santo,Empregado do setor público (inclusive empresas de economia mista),6183
+ES,Espírito Santo,Empregador,1313
+ES,Espírito Santo,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",1958
+ES,Espírito Santo,"Militar do exercito, marinha ou aeronáutica",42
+ES,Espírito Santo,Plicial militar ou bombeiro mlilitar,198
+PE,Pernambuco,Empregado do setor privado,14516
+PE,Pernambuco,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,738
+PE,Pernambuco,"Militar do exercito, marinha ou aeronáutica",138
+BA,Bahia,Plicial militar ou bombeiro mlilitar,205
+BA,Bahia,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",3547
+BA,Bahia,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1001
+BA,Bahia,"Militar do exercito, marinha ou aeronáutica",44
+PR,Paraná,Conta própria,19827
+PR,Paraná,Empregador,2841
+PR,Paraná,Plicial militar ou bombeiro mlilitar,125
+PR,Paraná,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1119
+PR,Paraná,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",810
+PR,Paraná,"Militar do exercito, marinha ou aeronáutica",163
+RS,Rio Grande do Sul,Empregado do setor público (inclusive empresas de economia mista),8510
+RS,Rio Grande do Sul,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,3750
+MA,Maranhão,Empregado do setor privado,11889
+MA,Maranhão,Empregado do setor público (inclusive empresas de economia mista),7680
+MA,Maranhão,Empregador,613
+MA,Maranhão,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,1090
+MA,Maranhão,Plicial militar ou bombeiro mlilitar,187
+SC,Santa Catarina,Conta própria,22626
+SC,Santa Catarina,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",794
+SC,Santa Catarina,Empregado do setor público (inclusive empresas de economia mista),8629
+SC,Santa Catarina,"Trabalhador doméstico (empregado doméstico, cuidados, babá)",2515
+SC,Santa Catarina,Empregador,2658
+SC,Santa Catarina,"Militar do exercito, marinha ou aeronáutica",103
+MG,Minas Gerais,Empregado do setor público (inclusive empresas de economia mista),11728
+MG,Minas Gerais,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",2357
+MG,Minas Gerais,Empregador,3715
+MG,Minas Gerais,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,2405
+MG,Minas Gerais,Plicial militar ou bombeiro mlilitar,340
+SP,São Paulo,Empregado do setor privado,53040
+SP,São Paulo,Empregador,3742
+RJ,Rio de Janeiro,Conta própria,22109
+RJ,Rio de Janeiro,Plicial militar ou bombeiro mlilitar,466
+RJ,Rio de Janeiro,"Estava fora do mercado de trabalho (fazia apenas afazeres domésticos, cuidados de pessoas ou produção para próprio consumo)",266
+RJ,Rio de Janeiro,Trabalhador familiar não remunerado em ajuda a membro do domicílio ou parente,247

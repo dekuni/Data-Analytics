@@ -1,0 +1,25 @@
+Raca,Teste_de_Covid,Frequencia
+Amarela,Ainda não recebeu o resultado,21
+Amarela,Inconclusivo,1
+Amarela,Negativo,359
+Amarela,Positivo,75
+Branca,Ainda não recebeu o resultado,1091
+Branca,Ignorado,9
+Branca,Inconclusivo,168
+Branca,Negativo,23759
+Branca,Positivo,9071
+Ignorado,Negativo,9
+Ignorado,Positivo,12
+Indígena,Ainda não recebeu o resultado,12
+Indígena,Negativo,114
+Indígena,Positivo,80
+Parda,Ainda não recebeu o resultado,1021
+Parda,Ignorado,8
+Parda,Inconclusivo,196
+Parda,Negativo,19008
+Parda,Positivo,8656
+Preta,Ainda não recebeu o resultado,211
+Preta,Ignorado,1
+Preta,Inconclusivo,32
+Preta,Negativo,4045
+Preta,Positivo,1590

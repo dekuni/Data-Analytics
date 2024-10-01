@@ -1,0 +1,82 @@
+sigla_uf,Estados,Remunerado,frequencia
+AP,Amapá,Sim,786
+DF,Distrito Federal,O trabalho já não era remunerado,10
+RO,Rondônia,Sim,654
+RO,Rondônia,Não,437
+AC,Acre,O trabalho já não era remunerado,44
+TO,Tocantins,O trabalho já não era remunerado,8
+RR,Roraima,Sim,1076
+RR,Roraima,O trabalho já não era remunerado,12
+PI,Piauí,O trabalho já não era remunerado,19
+RN,Rio Grande do Norte,Sim,1162
+RN,Rio Grande do Norte,Não,1413
+MS,Mato Grosso do Sul,O trabalho já não era remunerado,6
+SE,Sergipe,Não,1236
+PA,Pará,Sim,1521
+PA,Pará,O trabalho já não era remunerado,42
+AM,Amazonas,Sim,1250
+AM,Amazonas,Não,1495
+AM,Amazonas,O trabalho já não era remunerado,35
+AL,Alagoas,O trabalho já não era remunerado,28
+MT,Mato Grosso,Não,1180
+MT,Mato Grosso,O trabalho já não era remunerado,19
+PB,Paraíba,Não,1620
+PB,Paraíba,Sim,1089
+PE,Pernambuco,Não,3534
+MA,Maranhão,O trabalho já não era remunerado,53
+GO,Goiás,Sim,1604
+GO,Goiás,Não,2381
+GO,Goiás,O trabalho já não era remunerado,14
+ES,Espírito Santo,Sim,1704
+ES,Espírito Santo,O trabalho já não era remunerado,15
+SC,Santa Catarina,Não,1801
+SC,Santa Catarina,Sim,2017
+CE,Ceará,Sim,1924
+BA,Bahia,Sim,2128
+BA,Bahia,O trabalho já não era remunerado,23
+PR,Paraná,Sim,1879
+PR,Paraná,Não,1981
+RS,Rio Grande do Sul,Não,2620
+SP,São Paulo,Não,5398
+SP,São Paulo,O trabalho já não era remunerado,50
+MG,Minas Gerais,Sim,3490
+AP,Amapá,Não,668
+AP,Amapá,O trabalho já não era remunerado,6
+DF,Distrito Federal,Não,1291
+DF,Distrito Federal,Sim,1019
+RO,Rondônia,O trabalho já não era remunerado,7
+AC,Acre,Não,936
+AC,Acre,Sim,1487
+TO,Tocantins,Sim,683
+TO,Tocantins,Não,634
+RR,Roraima,Não,721
+PI,Piauí,Não,1321
+PI,Piauí,Sim,1160
+RN,Rio Grande do Norte,O trabalho já não era remunerado,24
+MS,Mato Grosso do Sul,Sim,607
+MS,Mato Grosso do Sul,Não,508
+SE,Sergipe,Sim,1047
+SE,Sergipe,O trabalho já não era remunerado,27
+PA,Pará,Não,2157
+AL,Alagoas,Sim,1346
+AL,Alagoas,Não,1573
+MT,Mato Grosso,Sim,1092
+PB,Paraíba,O trabalho já não era remunerado,42
+PE,Pernambuco,Sim,1832
+PE,Pernambuco,O trabalho já não era remunerado,46
+MA,Maranhão,Não,2509
+MA,Maranhão,Sim,2376
+ES,Espírito Santo,Não,2346
+SC,Santa Catarina,O trabalho já não era remunerado,24
+CE,Ceará,Não,3609
+CE,Ceará,O trabalho já não era remunerado,81
+BA,Bahia,Não,3428
+PR,Paraná,O trabalho já não era remunerado,21
+RS,Rio Grande do Sul,Sim,2270
+RS,Rio Grande do Sul,O trabalho já não era remunerado,44
+SP,São Paulo,Sim,3795
+MG,Minas Gerais,Não,4552
+MG,Minas Gerais,O trabalho já não era remunerado,36
+RJ,Rio de Janeiro,Não,7180
+RJ,Rio de Janeiro,Sim,4631
+RJ,Rio de Janeiro,O trabalho já não era remunerado,47

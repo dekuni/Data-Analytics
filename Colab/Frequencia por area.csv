@@ -1,0 +1,9 @@
+Area,Frequencia,Frequencia_uso
+Capital,Sim,91108
+Capital,Não,55558
+"Resto da RM (Região Metropolitana, excluindo a capital)",Não,33040
+"Resto da RM (Região Metropolitana, excluindo a capital)",Sim,50228
+"Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital)",Sim,4705
+"Resto da UF (Unidade da Federação, excluindo a região metropolitana e a RIDE)",Sim,251641
+"Resto da UF (Unidade da Federação, excluindo a região metropolitana e a RIDE)",Não,157804
+"Resto da RIDE (Região Integrada de Desenvolvimento Econômico, excluindo a capital)",Não,2834

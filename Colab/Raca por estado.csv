@@ -1,0 +1,162 @@
+sigla_uf,Estados,Raca,frequencia
+AP,Amapá,Parda,14041
+AP,Amapá,Preta,1319
+AP,Amapá,Ignorado,6
+RR,Roraima,Branca,7270
+AC,Acre,Parda,32216
+AC,Acre,Branca,9113
+AC,Acre,Indígena,171
+AC,Acre,Ignorado,11
+TO,Tocantins,Amarela,236
+DF,Distrito Federal,Preta,4789
+DF,Distrito Federal,Amarela,412
+RO,Rondônia,Parda,23450
+RO,Rondônia,Branca,10936
+RO,Rondônia,Preta,2749
+MS,Mato Grosso do Sul,Parda,29037
+SE,Sergipe,Branca,12388
+SE,Sergipe,Indígena,88
+SE,Sergipe,Amarela,50
+SE,Sergipe,Ignorado,25
+MT,Mato Grosso,Branca,26044
+MT,Mato Grosso,Preta,6924
+MT,Mato Grosso,Amarela,609
+MT,Mato Grosso,Ignorado,14
+PI,Piauí,Indígena,33
+PB,Paraíba,Parda,39553
+PB,Paraíba,Indígena,136
+PB,Paraíba,Ignorado,1
+RN,Rio Grande do Norte,Amarela,183
+RN,Rio Grande do Norte,Indígena,67
+PA,Pará,Parda,57103
+PA,Pará,Branca,16320
+PA,Pará,Preta,6338
+PA,Pará,Amarela,513
+GO,Goiás,Branca,34627
+GO,Goiás,Ignorado,8
+AL,Alagoas,Parda,54161
+AL,Alagoas,Preta,4353
+AL,Alagoas,Ignorado,8
+CE,Ceará,Parda,80288
+CE,Ceará,Preta,5508
+CE,Ceará,Ignorado,165
+CE,Ceará,Amarela,470
+CE,Ceará,Indígena,378
+AM,Amazonas,Branca,11895
+AM,Amazonas,Preta,2477
+PE,Pernambuco,Parda,66104
+PE,Pernambuco,Ignorado,30
+ES,Espírito Santo,Parda,54165
+ES,Espírito Santo,Preta,11096
+ES,Espírito Santo,Indígena,456
+ES,Espírito Santo,Amarela,445
+MA,Maranhão,Branca,24555
+MA,Maranhão,Indígena,522
+SC,Santa Catarina,Branca,135621
+SC,Santa Catarina,Parda,22162
+SC,Santa Catarina,Amarela,438
+SC,Santa Catarina,Ignorado,29
+PR,Paraná,Branca,93228
+PR,Paraná,Preta,4147
+PR,Paraná,Ignorado,16
+BA,Bahia,Parda,72128
+BA,Bahia,Amarela,534
+BA,Bahia,Ignorado,12
+MG,Minas Gerais,Branca,94950
+MG,Minas Gerais,Indígena,256
+MG,Minas Gerais,Ignorado,36
+RJ,Rio de Janeiro,Parda,80326
+RJ,Rio de Janeiro,Branca,93743
+RJ,Rio de Janeiro,Preta,24737
+SP,São Paulo,Amarela,3854
+SP,São Paulo,Parda,71754
+SP,São Paulo,Preta,15809
+SP,São Paulo,Ignorado,69
+AP,Amapá,Branca,3921
+AP,Amapá,Amarela,46
+AP,Amapá,Indígena,36
+RR,Roraima,Parda,24275
+RR,Roraima,Indígena,1622
+RR,Roraima,Preta,3212
+RR,Roraima,Amarela,206
+RR,Roraima,Ignorado,2
+AC,Acre,Preta,2861
+AC,Acre,Amarela,242
+TO,Tocantins,Parda,23806
+TO,Tocantins,Preta,3871
+TO,Tocantins,Branca,8562
+TO,Tocantins,Indígena,157
+TO,Tocantins,Ignorado,21
+DF,Distrito Federal,Parda,22407
+DF,Distrito Federal,Branca,18239
+DF,Distrito Federal,Indígena,100
+DF,Distrito Federal,Ignorado,71
+RO,Rondônia,Amarela,331
+RO,Rondônia,Indígena,113
+MS,Mato Grosso do Sul,Branca,27202
+MS,Mato Grosso do Sul,Preta,3755
+MS,Mato Grosso do Sul,Amarela,567
+MS,Mato Grosso do Sul,Indígena,376
+MS,Mato Grosso do Sul,Ignorado,8
+SE,Sergipe,Parda,39835
+SE,Sergipe,Preta,5118
+MT,Mato Grosso,Parda,45490
+MT,Mato Grosso,Indígena,300
+PI,Piauí,Preta,5701
+PI,Piauí,Branca,12510
+PI,Piauí,Parda,39817
+PI,Piauí,Amarela,62
+PI,Piauí,Ignorado,15
+PB,Paraíba,Branca,24015
+PB,Paraíba,Preta,3844
+PB,Paraíba,Amarela,218
+RN,Rio Grande do Norte,Parda,30716
+RN,Rio Grande do Norte,Branca,21630
+RN,Rio Grande do Norte,Preta,3700
+RN,Rio Grande do Norte,Ignorado,59
+PA,Pará,Indígena,425
+PA,Pará,Ignorado,5
+GO,Goiás,Parda,52430
+GO,Goiás,Amarela,871
+GO,Goiás,Preta,7571
+GO,Goiás,Indígena,202
+AL,Alagoas,Branca,21129
+AL,Alagoas,Amarela,785
+AL,Alagoas,Indígena,553
+CE,Ceará,Branca,31290
+AM,Amazonas,Parda,52919
+AM,Amazonas,Indígena,1688
+AM,Amazonas,Amarela,349
+AM,Amazonas,Ignorado,15
+PE,Pernambuco,Branca,37647
+PE,Pernambuco,Preta,8210
+PE,Pernambuco,Indígena,462
+PE,Pernambuco,Amarela,771
+ES,Espírito Santo,Branca,40334
+ES,Espírito Santo,Ignorado,6
+MA,Maranhão,Preta,15229
+MA,Maranhão,Parda,92141
+MA,Maranhão,Amarela,772
+MA,Maranhão,Ignorado,8
+SC,Santa Catarina,Preta,4511
+SC,Santa Catarina,Indígena,220
+PR,Paraná,Parda,39871
+PR,Paraná,Amarela,1629
+PR,Paraná,Indígena,246
+BA,Bahia,Preta,25312
+BA,Bahia,Branca,21761
+BA,Bahia,Indígena,611
+RS,Rio Grande do Sul,Branca,126435
+RS,Rio Grande do Sul,Preta,7875
+RS,Rio Grande do Sul,Parda,19103
+RS,Rio Grande do Sul,Amarela,145
+RS,Rio Grande do Sul,Indígena,297
+RS,Rio Grande do Sul,Ignorado,33
+MG,Minas Gerais,Preta,26483
+MG,Minas Gerais,Parda,117008
+MG,Minas Gerais,Amarela,730
+RJ,Rio de Janeiro,Ignorado,31
+RJ,Rio de Janeiro,Indígena,423
+RJ,Rio de Janeiro,Amarela,641
+SP,São Paulo,Branca,144210
+SP,São Paulo,Indígena,328

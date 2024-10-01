@@ -1,0 +1,217 @@
+sigla_uf,Estado,Escolaridade,Total_Entrevistados
+AC,Acre,Fundamental incompleto,13278
+AC,Acre,Médio completo,10171
+AC,Acre,Sem instrução,5483
+AC,Acre,Superior completo,4648
+AC,Acre,Médio incompleto,4585
+AC,Acre,Fundamental completa,2690
+AC,Acre,Superior incompleto,2645
+AC,Acre,"Pós-graduação, mestrado ou doutorado",1114
+AL,Alagoas,Fundamental incompleto,33472
+AL,Alagoas,Médio completo,14873
+AL,Alagoas,Sem instrução,12070
+AL,Alagoas,Médio incompleto,7992
+AL,Alagoas,Superior completo,4580
+AL,Alagoas,Fundamental completa,3864
+AL,Alagoas,Superior incompleto,2993
+AL,Alagoas,"Pós-graduação, mestrado ou doutorado",1145
+AP,Amapá,Fundamental incompleto,5305
+AP,Amapá,Médio completo,5123
+AP,Amapá,Sem instrução,2070
+AP,Amapá,Médio incompleto,2055
+AP,Amapá,Superior completo,1933
+AP,Amapá,Superior incompleto,1413
+AP,Amapá,Fundamental completa,989
+AP,Amapá,"Pós-graduação, mestrado ou doutorado",481
+AM,Amazonas,Fundamental incompleto,22183
+AM,Amazonas,Médio completo,18162
+AM,Amazonas,Sem instrução,7774
+AM,Amazonas,Médio incompleto,7657
+AM,Amazonas,Superior completo,5662
+AM,Amazonas,Superior incompleto,3558
+AM,Amazonas,Fundamental completa,3000
+AM,Amazonas,"Pós-graduação, mestrado ou doutorado",1347
+BA,Bahia,Fundamental incompleto,44976
+BA,Bahia,Médio completo,26741
+BA,Bahia,Sem instrução,15975
+BA,Bahia,Médio incompleto,12935
+BA,Bahia,Superior completo,7212
+BA,Bahia,Fundamental completa,6434
+BA,Bahia,Superior incompleto,4321
+BA,Bahia,"Pós-graduação, mestrado ou doutorado",1764
+CE,Ceará,Fundamental incompleto,42318
+CE,Ceará,Médio completo,24772
+CE,Ceará,Sem instrução,17742
+CE,Ceará,Médio incompleto,10953
+CE,Ceará,Superior completo,7651
+CE,Ceará,Fundamental completa,7066
+CE,Ceará,Superior incompleto,5246
+CE,Ceará,"Pós-graduação, mestrado ou doutorado",2351
+DF,Distrito Federal,Fundamental incompleto,10713
+DF,Distrito Federal,Médio completo,10338
+DF,Distrito Federal,Superior completo,8661
+DF,Distrito Federal,Médio incompleto,3882
+DF,Distrito Federal,Sem instrução,3793
+DF,Distrito Federal,Superior incompleto,3508
+DF,Distrito Federal,Fundamental completa,2565
+DF,Distrito Federal,"Pós-graduação, mestrado ou doutorado",2558
+ES,Espírito Santo,Fundamental incompleto,36408
+ES,Espírito Santo,Médio completo,25126
+ES,Espírito Santo,Sem instrução,10685
+ES,Espírito Santo,Superior completo,9178
+ES,Espírito Santo,Médio incompleto,8990
+ES,Espírito Santo,Fundamental completa,6874
+ES,Espírito Santo,Superior incompleto,5157
+ES,Espírito Santo,"Pós-graduação, mestrado ou doutorado",4084
+GO,Goiás,Fundamental incompleto,32006
+GO,Goiás,Médio completo,21207
+GO,Goiás,Médio incompleto,9918
+GO,Goiás,Superior completo,9668
+GO,Goiás,Sem instrução,9128
+GO,Goiás,Superior incompleto,5741
+GO,Goiás,Fundamental completa,5622
+GO,Goiás,"Pós-graduação, mestrado ou doutorado",2419
+MA,Maranhão,Fundamental incompleto,51240
+MA,Maranhão,Médio completo,28994
+MA,Maranhão,Sem instrução,19740
+MA,Maranhão,Médio incompleto,13672
+MA,Maranhão,Fundamental completa,7004
+MA,Maranhão,Superior completo,6261
+MA,Maranhão,Superior incompleto,4593
+MA,Maranhão,"Pós-graduação, mestrado ou doutorado",1723
+MT,Mato Grosso,Fundamental incompleto,26128
+MT,Mato Grosso,Médio completo,16588
+MT,Mato Grosso,Sem instrução,9013
+MT,Mato Grosso,Médio incompleto,8758
+MT,Mato Grosso,Superior completo,7725
+MT,Mato Grosso,Fundamental completa,4970
+MT,Mato Grosso,Superior incompleto,4492
+MT,Mato Grosso,"Pós-graduação, mestrado ou doutorado",1707
+MS,Mato Grosso do Sul,Fundamental incompleto,21338
+MS,Mato Grosso do Sul,Médio completo,11175
+MS,Mato Grosso do Sul,Sem instrução,6761
+MS,Mato Grosso do Sul,Superior completo,6130
+MS,Mato Grosso do Sul,Médio incompleto,5487
+MS,Mato Grosso do Sul,Fundamental completa,4196
+MS,Mato Grosso do Sul,Superior incompleto,3764
+MS,Mato Grosso do Sul,"Pós-graduação, mestrado ou doutorado",2094
+MG,Minas Gerais,Fundamental incompleto,88923
+MG,Minas Gerais,Médio completo,50672
+MG,Minas Gerais,Sem instrução,23539
+MG,Minas Gerais,Médio incompleto,22616
+MG,Minas Gerais,Superior completo,20421
+MG,Minas Gerais,Fundamental completa,17354
+MG,Minas Gerais,Superior incompleto,10357
+MG,Minas Gerais,"Pós-graduação, mestrado ou doutorado",5581
+PR,Paraná,Fundamental incompleto,43573
+PR,Paraná,Médio completo,30540
+PR,Paraná,Superior completo,15901
+PR,Paraná,Sem instrução,12839
+PR,Paraná,Médio incompleto,12773
+PR,Paraná,Fundamental completa,10350
+PR,Paraná,Superior incompleto,7907
+PR,Paraná,"Pós-graduação, mestrado ou doutorado",5254
+PB,Paraíba,Fundamental incompleto,25965
+PB,Paraíba,Médio completo,12792
+PB,Paraíba,Sem instrução,9255
+PB,Paraíba,Médio incompleto,6071
+PB,Paraíba,Superior completo,5522
+PB,Paraíba,Fundamental completa,3699
+PB,Paraíba,Superior incompleto,3230
+PB,Paraíba,"Pós-graduação, mestrado ou doutorado",1233
+PA,Pará,Fundamental incompleto,29885
+PA,Pará,Médio completo,18046
+PA,Pará,Médio incompleto,8979
+PA,Pará,Sem instrução,8580
+PA,Pará,Superior completo,5695
+PA,Pará,Fundamental completa,4738
+PA,Pará,Superior incompleto,3652
+PA,Pará,"Pós-graduação, mestrado ou doutorado",1129
+PE,Pernambuco,Fundamental incompleto,40603
+PE,Pernambuco,Médio completo,25947
+PE,Pernambuco,Sem instrução,13516
+PE,Pernambuco,Médio incompleto,10649
+PE,Pernambuco,Superior completo,8825
+PE,Pernambuco,Fundamental completa,6101
+PE,Pernambuco,Superior incompleto,4975
+PE,Pernambuco,"Pós-graduação, mestrado ou doutorado",2608
+PI,Piauí,Fundamental incompleto,21594
+PI,Piauí,Médio completo,10904
+PI,Piauí,Sem instrução,9130
+PI,Piauí,Médio incompleto,5093
+PI,Piauí,Superior completo,4427
+PI,Piauí,Fundamental completa,3334
+PI,Piauí,Superior incompleto,2625
+PI,Piauí,"Pós-graduação, mestrado ou doutorado",1031
+RN,Rio Grande do Norte,Fundamental incompleto,20786
+RN,Rio Grande do Norte,Médio completo,11879
+RN,Rio Grande do Norte,Sem instrução,6979
+RN,Rio Grande do Norte,Médio incompleto,5766
+RN,Rio Grande do Norte,Superior completo,4146
+RN,Rio Grande do Norte,Fundamental completa,2933
+RN,Rio Grande do Norte,Superior incompleto,2573
+RN,Rio Grande do Norte,"Pós-graduação, mestrado ou doutorado",1293
+RS,Rio Grande do Sul,Fundamental incompleto,55046
+RS,Rio Grande do Sul,Médio completo,31127
+RS,Rio Grande do Sul,Superior completo,15157
+RS,Rio Grande do Sul,Médio incompleto,12941
+RS,Rio Grande do Sul,Fundamental completa,12264
+RS,Rio Grande do Sul,Sem instrução,11613
+RS,Rio Grande do Sul,Superior incompleto,10427
+RS,Rio Grande do Sul,"Pós-graduação, mestrado ou doutorado",5313
+RJ,Rio de Janeiro,Médio completo,55383
+RJ,Rio de Janeiro,Fundamental incompleto,50016
+RJ,Rio de Janeiro,Superior completo,26889
+RJ,Rio de Janeiro,Fundamental completa,16722
+RJ,Rio de Janeiro,Médio incompleto,16404
+RJ,Rio de Janeiro,Sem instrução,14361
+RJ,Rio de Janeiro,Superior incompleto,12807
+RJ,Rio de Janeiro,"Pós-graduação, mestrado ou doutorado",7319
+RO,Rondônia,Fundamental incompleto,14246
+RO,Rondônia,Médio completo,7626
+RO,Rondônia,Sem instrução,4300
+RO,Rondônia,Médio incompleto,3587
+RO,Rondônia,Superior completo,2921
+RO,Rondônia,Fundamental completa,2093
+RO,Rondônia,Superior incompleto,2050
+RO,Rondônia,"Pós-graduação, mestrado ou doutorado",756
+RR,Roraima,Médio completo,10306
+RR,Roraima,Fundamental incompleto,9900
+RR,Roraima,Sem instrução,4535
+RR,Roraima,Médio incompleto,4177
+RR,Roraima,Superior completo,3554
+RR,Roraima,Superior incompleto,2043
+RR,Roraima,Fundamental completa,1511
+RR,Roraima,"Pós-graduação, mestrado ou doutorado",561
+SC,Santa Catarina,Fundamental incompleto,51189
+SC,Santa Catarina,Médio completo,35295
+SC,Santa Catarina,Superior completo,18069
+SC,Santa Catarina,Fundamental completa,16275
+SC,Santa Catarina,Médio incompleto,13301
+SC,Santa Catarina,Sem instrução,12640
+SC,Santa Catarina,Superior incompleto,10633
+SC,Santa Catarina,"Pós-graduação, mestrado ou doutorado",5579
+SE,Sergipe,Fundamental incompleto,23755
+SE,Sergipe,Médio completo,10633
+SE,Sergipe,Sem instrução,8670
+SE,Sergipe,Médio incompleto,5120
+SE,Sergipe,Superior completo,3848
+SE,Sergipe,Superior incompleto,2433
+SE,Sergipe,Fundamental completa,2160
+SE,Sergipe,"Pós-graduação, mestrado ou doutorado",885
+SP,São Paulo,Fundamental incompleto,64191
+SP,São Paulo,Médio completo,60664
+SP,São Paulo,Superior completo,31810
+SP,São Paulo,Médio incompleto,20709
+SP,São Paulo,Sem instrução,19918
+SP,São Paulo,Fundamental completa,19515
+SP,São Paulo,Superior incompleto,12886
+SP,São Paulo,"Pós-graduação, mestrado ou doutorado",6331
+TO,Tocantins,Fundamental incompleto,12548
+TO,Tocantins,Médio completo,7724
+TO,Tocantins,Sem instrução,4657
+TO,Tocantins,Médio incompleto,3521
+TO,Tocantins,Superior completo,3407
+TO,Tocantins,Fundamental completa,2026
+TO,Tocantins,Superior incompleto,1833
+TO,Tocantins,"Pós-graduação, mestrado ou doutorado",937
