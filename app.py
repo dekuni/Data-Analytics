@@ -22,7 +22,7 @@ with tab1:
     st.write("Ao longo da análise, exploramos perguntas como 'Quais foram os sintomas mais frequentes entre aqueles que procuraram atendimento médico?', 'Como os resultados dos testes de COVID-19 variaram entre diferentes grupos demográficos?', e 'Quais setores da economia foram mais atingidos?'. As respostas a essas perguntas nos ajudam a identificar padrões de comportamento e fornecer recomendações para ações de saúde pública e políticas sociais em casos de futuros surtos.")
     st.write("Desta forma, este estudo não só oferece uma visão detalhada dos impactos da COVID-19, mas também fornece uma ferramenta poderosa para gestores de saúde e formuladores de políticas públicas, que podem utilizar essas informações para melhorar o planejamento e a resposta em situações de emergência sanitária.")
     st.divider()
-    st.write("")
+    st.write("Repositório do GIT: \n\n https://github.com/dekuni/Data-Analytics")
 # Tab 2: Características clínicas dos sintomas
 with tab2:
     st.header("Questões")
